@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Adityamg
-- 👀 I’m interested in pes modern college
 - 🌱 I’m currently learning c++ and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adityamghyar@gmail.com
